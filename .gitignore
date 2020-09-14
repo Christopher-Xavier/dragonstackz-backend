@@ -1,3 +1,0 @@
-node_modules/
-##CONSIDER_IGNORING: secrets/
-DB_SECRET.password
